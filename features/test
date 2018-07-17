@@ -1,0 +1,9 @@
+name = "Alex"
+age = 75
+puts "There once was a man named #{name}"
+puts "He was #{age} years old"
+name = "George"
+age = 30
+puts age.class
+puts "He realy liked the name " + name
+puts "But didn't like being #{age}"
